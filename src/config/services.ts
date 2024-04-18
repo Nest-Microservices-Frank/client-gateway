@@ -1,2 +1,2 @@
 export const PRODUCT_SERVICE = 'PRODUCT_SERVICE';
-export * from './envs';
+export const ORDER_SERVICE = 'ORDER_SERVICE';
